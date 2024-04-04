@@ -4,7 +4,6 @@ collection: teaching
 type: "Master's course in prehistoric archaeology"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Copenhagen, Prehistoric Archaeology, SAXO-Institute."
-date: Autumn semester 2023
 location: "Copenhagen, Denmark"
 ---
 
