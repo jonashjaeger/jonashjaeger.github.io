@@ -21,7 +21,7 @@ repository               : "jonashjaegaer/jonashjaeger.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jonas_profile.jpg"
   name             : "Jonas Holm Jæger"
   pronouns         : # example: "she/her"  
   bio              : "Exorcising ancient proteins since '19."
