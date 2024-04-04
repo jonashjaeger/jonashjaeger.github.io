@@ -4,7 +4,69 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jonas Holm Jæger - CV</title>
-    <link rel="stylesheet" href="style.css"> <!-- Link to your CSS file if you have one -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f3f3f3;
+        }
+        header, footer {
+            background-color: #f3f3f3;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .navigation {
+            background-color: #333;
+            color: #f3f3f3;
+            overflow: hidden;
+        }
+        .navigation ul {
+            padding: 0;
+            list-style-type: none;
+            text-align: center;
+        }
+        .navigation ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+        .navigation ul li a {
+            color: white;
+            text-decoration: none;
+            padding: 5px 20px;
+            display: inline-block;
+        }
+        .navigation ul li a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .content {
+            padding: 20px;
+            background-color: #f3f3f3;
+        }
+        .content h1, .content h2 {
+            color: #333;
+        }
+        .social-links {
+            text-align: center;
+            padding: 20px 0;
+        }
+        .social-links a {
+            margin: 0 10px;
+            display: inline-block;
+        }
+        .footer {
+            background-color: #333;
+            color: #f3f3f3;
+            text-align: center;
+            padding: 10px 0;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -16,17 +78,24 @@
     <nav class="navigation">
         <div class="container">
             <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html">Welcome</a></li>
                 <li><a href="cv.html">CV</a></li>
-                <!-- Update or add more navigation links as needed -->
+                <!-- Additional navigation items -->
             </ul>
         </div>
     </nav>
     <div class="container content">
-        <section id="cv">
-            <h2>My CV</h2>
+        <section id="cv-section">
+            <h2>Curriculum Vitae</h2>
             <iframe src="https://docs.google.com/document/d/e/2PACX-1vSmHi_5b5AUfldWRk1DXqXj5UUUFzcKrE2l9b4aW0dEeBATbBx1z9XDQqx2ERZtYYP3QzyhKxrR4MbQ/pub?embedded=true" style="width:100%; height:1000px; border:none;"></iframe>
         </section>
+    </div>
+    <div class="social-links">
+        <a href="https://twitter.com/jonashjaeger">Twitter</a>
+        <a href="https://www.facebook.com/jonashjaeger">Facebook</a>
+        <a href="https://www.linkedin.com/in/jonas-holm-j%C3%A6ger-81645153/">LinkedIn</a>
+        <a href="https://orcid.org/0000-0001-8641-2564">ORCID</a>
+        <!-- Repeat for other social networks -->
     </div>
     <footer class="footer">
         <p>© 2024 Jonas Holm Jæger. All rights reserved.</p>
