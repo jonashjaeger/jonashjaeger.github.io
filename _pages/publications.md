@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+**Peer-reviewed publications**
+Jæger, JH. 2023: Wool Production During the Southern Scandinavian Late Iron Age and Viking Age - The Potential of Biomolecular Methods *[in press]*
 
-{% include base_path %}
+Jæger, JH. 2022: At skille fårene fra bukkene. ZooMS som værktøj til artsbestemmelse af kæber og tænder fra får og geder, *Arkæologisk Forum* 46: 4-15. 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Jæger, JH. & Johansen, VL 2014: The cremation of infants/small children. An archaeological experiment concerning the effects of fire on bone weight, *Cadernos do Grupo de Estudos em Evolucao Humana* 2(2): 13-26.
+
+**Contributions**
+Foss, P. & Winther Johansen, J. 2019: Cup Marks on Stones in Danish Bronze Age Settlements, *Adoranten* 2018: 31-41
