@@ -27,7 +27,8 @@
         }
         .profile img {
             border-radius: 50%;
-            max-width: 150px;
+            max-width: 200px; /* Adjusted size */
+            height: auto;
         }
         .navigation {
             background-color: #333;
@@ -60,8 +61,9 @@
         .content h1, .content h2 {
             color: #333;
         }
-		.content #welcome p {
-			text-align: center; /* Center the introduction/welcome message */
+        .content #welcome p {
+            text-align: center; /* Center the introduction/welcome message */
+        }
         .social-links {
             text-align: center;
             padding: 20px 0;
@@ -76,18 +78,19 @@
             text-align: center;
             padding: 10px 0;
         }
-		    .profile img {
-        border-radius: 50%;
-        max-width: 200px; /* Adjusted from 150px to 200px */
-        height: auto;
-    }
-    .twitter-widget {
-        max-width: 100px; /* Adjust this value to fit your layout */
-        margin: 0 auto; /* This centers the div if the page width is larger */
-        height: 200px; /* Adjust height as needed */
-        overflow-y: scroll; /* Allows scrolling within the widget if content is longer */
-    }
-</style>
+        /* Flexbox layout for side-by-side content */
+        .flex-container {
+            display: flex;
+            justify-content: space-between;
+        }
+        .flex-item {
+            flex: 1;
+        }
+        .twitter-widget {
+            max-width: 600px; /* Adjust this value to fit your layout */
+            height: 200px; /* Adjust height as needed */
+            overflow-y: scroll; /* Allows scrolling within the widget if content is longer */
+        }
     </style>
 </head>
 <body>
@@ -107,31 +110,29 @@
             </ul>
         </div>
     </nav>
-    <div class="profile">
-        <img src="profile.jpg" alt="Jonas Holm Jæger">
-    </div>
     <div class="container content">
-        <section id="welcome">
-            <p>I am a PhD fellow at the University of Copenhagen where I also received my BA and MA degrees in Scandinavian (prehistoric) archaeology. During my time as a student, I have worked with topics such as Early Maglemosian settlement variability, experimental archaeology, forensic archaeology and - of course - palaeoproteomics.</p>
-
-			<p>I specialize in the application of molecular biological tools to study questions related to prehistoric animal husbandry. In my current research, I study Late Iron Age ovicaprines and wool production. By applying ZooMS and aDNA-analyses, I aim to gain a deeper and more nuanced understanding of ovicaprine husbandry and the production of wool during the Late Iron Age (including the Viking Age) in Denmark.</p>
-
-			<p>My PhD is part of the project, Textile Resources in Viking Age Landscapes funded by the Independent Research Fund Denmark (grant no. DFF-2027-00204B).</p>
-
-			<p>As such, my PhD project developed from my master's thesis, a collaborative thesis at the University of Copenhagen between the Centre for Textile Research under the Department of Prehistoric Archaeology at the SAXO-Institute and the Collins Group under the Section for GeoBiology at the GLOBE-Institute. My master's thesis was written under the supervision of Prof. Eva Andersson Strand and Prof. Matthew J. Collins as will my PhD dissertation.</p>
-        </section>
-	
-	<div>
-		<a class="twitter-timeline" href="https://twitter.com/jonashjaeger?ref_src=twsrc%5Etfw">Tweets by jonashjaeger</a> 
-		<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-	</div>
-		
-	
+        <!-- Flex container for side-by-side layout -->
+        <div class="flex-container">
+            <!-- Flex item for welcome message -->
+            <div class="flex-item">
+                <section id="welcome">
+                    <p>I am a PhD fellow at the University of Copenhagen where I also received my BA and MA degrees in Scandinavian (prehistoric) archaeology. During my time as a student, I have worked with topics such as Early Maglemosian settlement variability, experimental archaeology, forensic archaeology and - of course - palaeoproteomics.</p>
+                    <p>I specialize in the application of molecular biological tools to study questions related to prehistoric animal husbandry. In my current research, I study Late Iron Age ovicaprines and wool production. By applying ZooMS and aDNA-analyses, I aim to gain a deeper and more nuanced understanding of ovicaprine husbandry and the production of wool during the Late Iron Age (including the Viking Age) in Denmark.</p>
+                    <p>My PhD is part of the project, Textile Resources in Viking Age Landscapes funded by the Independent Research Fund Denmark (grant no. DFF-2027-00204B).</p>
+                    <p>As such, my PhD project developed from my master's thesis, a collaborative thesis at the University of Copenhagen between the Centre for Textile Research under the Department of Prehistoric Archaeology at the SAXO-Institute and the Collins Group under the Section for GeoBiology at the GLOBE-Institute. My master's thesis was written under the supervision of Prof. Eva Andersson Strand and Prof. Matthew J. Collins as will my PhD dissertation.</p>
+                </section>
+            </div>
+            <!-- Flex item for Twitter widget -->
+            <div class="flex-item twitter-widget">
+                <a class="twitter-timeline" href="https://twitter.com/jonashjaeger?ref_src=twsrc%5Etfw">Tweets by jonashjaeger</a> 
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+        </div>
         <!-- Add more sections for CV, Research, etc. -->
     </div>
     <div class="social-links">
         <!-- Add your social media links here -->
-        <a href="your-twitter-profile">Twitter</a>
+        <a href="https://twitter.com/jonashjaeger">Twitter</a>
         <!-- Repeat for other social networks -->
     </div>
     <footer class="footer">
