@@ -68,17 +68,17 @@
         }
         .content h1, .content h2 {
             color: #8b4513; /* Saddle brown */
+            text-align: center; /* Center headings */
         }
-        .content #Welcome p {
-            text-align: center; /* Center the introduction/welcome message */
+        .content p {
+            text-align: center; /* Center paragraph text */
         }
-        .social-links {
-            text-align: center;
-            padding: 20px 0;
+        .content a {
+            color: #8b4513; /* Match heading color */
+            text-decoration: none; /* Remove underline */
         }
-        .social-links a {
-            margin: 0 10px;
-            display: inline-block;
+        .content a:hover {
+            text-decoration: underline; /* Add underline on hover */
         }
         .footer {
             background-color: #8b4513; /* Saddle brown */
@@ -86,22 +86,24 @@
             text-align: center;
             padding: 10px 0;
         }
-        .twitter-widget {
-            max-width: 450px; /* or your preferred width */
-            margin: 20px auto; /* Vertically keeps existing space, horizontally centers the widget */
-            height: 800; /* Allows the height to adjust to the content */
-            overflow-y: auto; /* Shows a scrollbar if the content overflows */
-        }
         #media-links {
             text-align: center; /* Center the media links */
         }
         #media-links h2 {
             text-align: center; /* Center the title */
+            color: #8b4513; /* Match heading color */
         }
         #media-links ul {
             list-style-type: none; /* Remove bullet points */
             padding: 0; /* Remove default padding */
             margin: 0; /* Remove default margin */
+        }
+        #media-links a {
+            color: #8b4513; /* Match heading color */
+            text-decoration: none; /* Remove underline */
+        }
+        #media-links a:hover {
+            text-decoration: underline; /* Add underline on hover */
         }
     </style>
 </head>
@@ -115,11 +117,12 @@
     <nav class="navigation">
         <div class="container">
             <ul>
-                <li><a href="index.html">Welcome</a></li>
+                <li><a href="index.html">Home</a></li>
                 <li><a href="cv.html">CV</a></li>
                 <li><a href="research.html">Research</a></li>
                 <li><a href="publications.html">Publications</a></li>
 				<li><a href="media.html">Media</a></li>
+                <li><a href="other_interests.html">Other interests</a></li>
                 <!-- Add more navigation items if needed -->
             </ul>
         </div>
