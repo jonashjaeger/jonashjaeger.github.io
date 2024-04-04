@@ -1,7 +1,115 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Home</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f3f3f3;
+        }
+        header, footer {
+            background-color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .profile {
+            text-align: center;
+            padding: 20px 0;
+        }
+        .profile img {
+            border-radius: 50%;
+            max-width: 150px;
+        }
+        .navigation {
+            background-color: #333;
+            color: #fff;
+            overflow: hidden;
+        }
+        .navigation ul {
+            padding: 0;
+            list-style-type: none;
+            text-align: center;
+        }
+        .navigation ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+        .navigation ul li a {
+            color: white;
+            text-decoration: none;
+            padding: 5px 20px;
+            display: inline-block;
+        }
+        .navigation ul li a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .content {
+            padding: 20px;
+            background-color: #fff;
+        }
+        .content h1, .content h2 {
+            color: #333;
+        }
+        .social-links {
+            text-align: center;
+            padding: 20px 0;
+        }
+        .social-links a {
+            margin: 0 10px;
+            display: inline-block;
+        }
+        .footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+    </style>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <header>
+        <div class="container">
+            <h1>Your Name</h1>
+            <p>PhD fellow, Your Department, Your University</p>
+        </div>
+    </header>
+    <nav class="navigation">
+        <div class="container">
+            <ul>
+                <li><a href="#welcome">Welcome</a></li>
+                <li><a href="#cv">CV</a></li>
+                <li><a href="#research">Research</a></li>
+                <!-- Add more navigation items if needed -->
+            </ul>
+        </div>
+    </nav>
+    <div class="profile">
+        <img src="your-image.jpg" alt="Your Name">
+    </div>
+    <div class="container content">
+        <section id="welcome">
+            <h2>Well, hello there!</h2>
+            <p>Your introduction or welcome message here.</p>
+        </section>
+        <!-- Add more sections for CV, Research, etc. -->
+    </div>
+    <div class="social-links">
+        <!-- Add your social media links here -->
+        <a href="your-twitter-profile">Twitter</a>
+        <!-- Repeat for other social networks -->
+    </div>
+    <footer class="footer">
+        <p>© 2024 Your Name. All rights reserved.</p>
+    </footer>
 </body>
 </html>
