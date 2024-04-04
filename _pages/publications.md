@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+---
 **Peer-reviewed publications**
 
 Jæger, JH. 2023: Wool Production During the Southern Scandinavian Late Iron Age and Viking Age - The Potential of Biomolecular Methods *[in press]*
