@@ -1,9 +1,10 @@
 ---
 title: "Advanced Archaeological Methods"
 collection: teaching
-type: "Master's course in prehistoric archaeology"
+type: "Undergraduate"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Copenhagen, Prehistoric Archaeology, SAXO-Institute."
+date: 2023-01-01
 location: "Copenhagen, Denmark"
 ---
 
