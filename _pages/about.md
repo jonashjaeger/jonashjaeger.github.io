@@ -1,22 +1,20 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Welcome, everyone"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I’m Jonas, a PhD fellow in biomolecular archaeology at the [University of Copenhagen.](https://saxo.ku.dk/forskning/forhistorisk-arkaeologi/)
 
-**Welcome, everyone!**
-
-I’m Jonas, a PhD fellow in biomolecular archaeology at the University of Copenhagen.
-My PhD-project, Shearing Trough Time - Biomolecular Insights Into Viking Age Sheep Husbandry in Denmark, is part of the Textile Resources in Viking Age Landscapes-project (or TRiVAL for short) hosted at the Centre for Textile Research, SAXO, UCPH and funded by the Independent Research Fund Denmark (grant no. DFF-2027-00204B).
+My PhD-project, Shearing Trough Time - Biomolecular Insights Into Viking Age Sheep Husbandry in Denmark, is part of the [Textile Resources in Viking Age Landscapes](https://ctr.hum.ku.dk/research-programmes-and-projects/trival/)-project (or TRiVAL for short) hosted at the [Centre for Textile Research](https://ctr.hum.ku.dk/), SAXO, UCPH and funded by the Independent Research Fund Denmark (grant no. DFF-2027-00204B).
 
 **My research**
 
 Recent analyses of preserved wool textiles dated to the Danish Viking Age (c. AD 800-1050) have shown that wool quality underwent a significant change during this period from finer fibres to coarser. Whether this is the result of the introduction of new sheep breeds with different wool qualities, changes in sheep husbandry practices or something else entirely is not fully understood.
 
-By applying ZooMS and ancient DNA analyses, Shearing Through Time is going to provide new and unprecedented insights into how Late Iron Age and Viking Age sheep were managed, bred, and subsequently used in the production of wool textiles as well as how wool production interrelated with the overall textile economy of the period.
+By applying [ZooMS](https://en.wikipedia.org/wiki/ZooMS) and [ancient DNA analyses](https://en.wikipedia.org/wiki/Ancient_DNA), Shearing Through Time is going to provide new and unprecedented insights into how Late Iron Age and Viking Age sheep were managed, bred, and subsequently used in the production of wool textiles as well as how wool production interrelated with the overall textile economy of the period.
 
 **About me**
 
