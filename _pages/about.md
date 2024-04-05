@@ -11,7 +11,7 @@ I am a PhD fellow at the University of Copenhagen where I also received my BA an
 
 I specialize in the application of molecular biological tools to study questions related to prehistoric animal husbandry. In my current research, I study Late Iron Age ovicaprines and wool production. By applying [ZooMS](https://en.wikipedia.org/wiki/ZooMS) and [aDNA-analyses](https://en.wikipedia.org/wiki/Ancient_DNA), I aim to gain a deeper and more nuanced understanding of ovicaprine husbandry and the production of wool during the Late Iron Age (including the Viking Age) in Denmark,
 
-My PhD is part of the project, Textile Resources in Viking Age Landscapes funded by the Independent Research Fund Denmark (grant no. DFF-2027-00204B).
+My PhD is part of the project, [Textile Resources in Viking Age Landscapes](https://ctr.hum.ku.dk/research-programmes-and-projects/trival/) funded by the Independent Research Fund Denmark (grant no. DFF-2027-00204B).
 
 As such, my PhD project developed from my master's thesis, a collaborative thesis at the University of Copenhagen between the [Centre for Textile Research](https://ctr.hum.ku.dk/) under the Department of Prehistoric Archaeology at the SAXO-Institute and the [Collins Group](https://globe.ku.dk/research/geobiology/collins-group/) under the Section for GeoBiology at the GLOBE-Institute. My master's thesis was written under the supervision of Prof. Eva Andersson Strand and Prof. Matthew J. Collins as will my PhD dissertation.
 
