@@ -12,13 +12,21 @@ My PhD-project, Shearing Trough Time - Biomolecular Insights Into Viking Age She
 
 **My research**
 
-Recent analyses of preserved wool textiles dated to the Danish Viking Age (c. AD 800-1050) have shown that wool quality underwent a significant change during this period from finer fibres to coarser. Whether this is the result of the introduction of new sheep breeds with different wool qualities, changes in sheep husbandry practices or something else entirely is not fully understood.
+Within the context of the Danish Late Iron Age and Viking Age (*c*. AD 400-1050) textile archaeology there was two major developments: 
+
+1) The introduction of the sail.
+
+2) A sudden shift in overall wool quality from finer to coarser fibres.
+
+The introduction of the sail made from wool is believed to have caused a significant increase in the demand for raw materials and thus sheep. However, this is rather poorly studied, as is the sudden shift in wool fibre quality. Was this shift the result of the introduction of new sheep breeds with different wool qualities perhaps better suited for large-scale production of sailcloth quality wool? Was it the result of changing sheep husbandry practices or something else entirely?
 
 By applying [ZooMS](https://en.wikipedia.org/wiki/ZooMS) and [ancient DNA analyses](https://en.wikipedia.org/wiki/Ancient_DNA), Shearing Through Time is going to provide new and unprecedented insights into how Late Iron Age and Viking Age sheep were managed, bred, and subsequently used in the production of wool textiles as well as how wool production interrelated with the overall textile economy of the period.
 
 **About me**
 
-I received both my bachelor’s and master’s degrees in prehistoric archaeology at the University of Copenhagen. The topic of my bachelor’s thesis was old school Mesolithic settlement archaeology while my master’s thesis was on species identification of sheep and goat remains using ZooMS. Apart from this I also spent my years as an undergrad delving into areas such as experimental and funerary archaeology and forensic archaeology.
+I received both my bachelor's and master's degrees in prehistoric archaeology from the University of Copenhagen. For my bachelor's thesis, I did an old-school Mesolithic settlement analysis while my master's thesis was on ZooMS analyses of Swedish ovicaprine remains. Apart from this I also spent my years as an undergrad delving into areas such as zooarchaeology, biological anthropology, palaeoanthropology, experimental and funerary archaeology as well as forensic archaeology before I finally found my niche within palaeoproteomics and biomolecular archaeology.
 
-Today, I live in the countryside of Northwestern Zealand with my wife (who is also an archaeologist), our son and our Finnish Lapphund, four chickens and four goats. In what little spare time I have left I enjoy spending that time in nature either hiking or kayaking, camping, mountain biking, rock climbing, hunting or fishing. 
+These days I live in the quiet countryside of Northwestern Zealand in a small house with my wife (who is also an archaeologist), our son, Eske, our Finnish Lapphund, Jukka, our four chickens and four goats. 
+
+In what little spare time I have left I enjoy spending time in nature with my family either hiking or kayaking, camping, mountain biking, rock climbing hunting or fishing.
 
