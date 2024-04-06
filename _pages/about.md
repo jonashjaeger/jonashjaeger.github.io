@@ -8,7 +8,7 @@ redirect_from:
 ---
 I’m Jonas, a PhD fellow in biomolecular archaeology at the [University of Copenhagen.](https://saxo.ku.dk/forskning/forhistorisk-arkaeologi/)
 
-My PhD-project, Shearing Trough Time - Biomolecular Insights Into Viking Age Sheep Husbandry in Denmark, is part of the [Textile Resources in Viking Age Landscapes](https://ctr.hum.ku.dk/research-programmes-and-projects/trival/)-project (or TRiVAL for short) hosted at the [Centre for Textile Research](https://ctr.hum.ku.dk/), SAXO, UCPH and funded by the Independent Research Fund Denmark (grant no. DFF-2027-00204B).
+My PhD-project, ***Shearing Trough Time - Biomolecular Insights Into Viking Age Sheep Husbandry in Denmark***, is part of the [Textile Resources in Viking Age Landscapes](https://ctr.hum.ku.dk/research-programmes-and-projects/trival/)-project (or TRiVAL for short) hosted at the [Centre for Textile Research](https://ctr.hum.ku.dk/), SAXO, UCPH and funded by the Independent Research Fund Denmark (grant no. DFF-2027-00204B).
 
 **My research**
 
