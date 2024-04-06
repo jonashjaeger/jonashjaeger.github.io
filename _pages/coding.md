@@ -1,10 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Coding"
+permalink: /coding/
 author_profile: true
-redirect_from: 
-  - /coding/
-  - /coding.md
 ---
 In the wake of large language models and AI's like ChatGPT-4 I started to slowly develop an interest in coding - particularly because I figured that it would be great use of my time to spend a few hours writing some code if it could save me many hours of work. However, coming from a humanities background as well as being born a decade or two too soon to have coding being part of the elementary school curriculum, writing code has never been part of *my* curriculum. 
 
