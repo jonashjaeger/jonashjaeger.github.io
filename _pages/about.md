@@ -28,5 +28,5 @@ I received both my bachelor's and master's degrees in prehistoric archaeology fr
 
 These days I live in the quiet countryside of Northwestern Zealand in a small house with my wife (who is also an archaeologist), our son, Eske, our Finnish Lapphund, Jukka, our four chickens and four goats. 
 
-In what little spare time I have left I enjoy spending time in nature with my family either hiking or kayaking, camping, mountain biking, rock climbing hunting or fishing.
+In what little spare time I have left I enjoy spending time in nature with my family either hiking or kayaking, camping, mountain biking, rock climbing, hunting or fishing.
 
