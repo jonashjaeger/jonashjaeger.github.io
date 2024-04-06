@@ -25,7 +25,7 @@ author:
   name             : "Hello, there!"
   pronouns         : # example: "she/her"  
   bio              : "PhD-fellow in biomolecular archaeology"
-  location         : "55°39'47.9"N 12°35'19.8"E"
+  location         : "55.663307, 12.588779"
   employer         : "University of Copenhagen"
   uri              : # URL
   email            : "jonash@palaeome.org" 
