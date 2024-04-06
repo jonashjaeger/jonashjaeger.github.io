@@ -16,7 +16,7 @@ Within the context of the Danish Late Iron Age and Viking Age (*c*. AD 400-1050)
 
 1) The introduction of the sail around the 7th or 8th centuries AD.
 
-2) A sudden shift in overall wool quality from finer to coarser fibres.
+2) A sudden shift in overall wool quality from finer to coarser fibres during the Viking Age.
 
 The introduction of the sail made from wool is believed to have caused a significant increase in the demand for raw materials and thus sheep. However, this is rather poorly studied, as is the sudden shift in wool fibre quality. This poses a number of questions such as whether this shift was the result of the introduction of new sheep breeds with different wool qualities perhaps better suited for the production of sailcloth. Or could this be explained by changing sheep husbandry practices optimised for quantity rather than quality? Did the number of sheep actually increase with the increasing demand for raw materials? Or are we searching for a different explanation entirely?
 
