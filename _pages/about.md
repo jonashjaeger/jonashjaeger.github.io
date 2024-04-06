@@ -12,9 +12,9 @@ My PhD-project, Shearing Trough Time - Biomolecular Insights Into Viking Age She
 
 **My research**
 
-Within the context of the Danish Late Iron Age and Viking Age (*c*. AD 400-1050) textile archaeology there was two major developments: 
+Within the context of the Danish Late Iron Age and Viking Age (*c*. AD 400-1050) textile archaeology there were two major developments: 
 
-1) The introduction of the sail.
+1) The introduction of the sail around the 7th or 8th centuries AD.
 
 2) A sudden shift in overall wool quality from finer to coarser fibres.
 
