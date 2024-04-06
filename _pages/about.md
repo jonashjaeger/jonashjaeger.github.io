@@ -22,6 +22,12 @@ The introduction of the sail made from wool is believed to have caused a signifi
 
 By applying [ZooMS](https://en.wikipedia.org/wiki/ZooMS) and [ancient DNA analyses](https://en.wikipedia.org/wiki/Ancient_DNA), Shearing Through Time is going to provide new and unprecedented insights into how Late Iron Age and Viking Age sheep were managed, bred, and subsequently used in the production of wool textiles as well as how wool production interrelated with the overall textile economy of the period.
 
+**My teaching**
+
+During the autumn semester of 2023, I had the opportunity to teach an undergraduate course, *Advanced Archaeological Methods*, as part of the master's programme in prehistoric archaeology at UCPH. The course is in two parts: the first part is based on a two-week field school with the second part being a benign introduction to various topics considered "advanced". These include palaeoproteomics, ancient and environmental DNA, various shades of stable isotope analyses as well as a number of scanning-based tools such as uCT- and CT-scanning, photogrammetry and different varieties of laser and structured light scanning. 
+
+I highly appreciate the opportunity to teach natural science-based methodologies based on my background as an archaeologist firmly rooted within a humanities framework rather than a STEM field.
+
 **About me**
 
 I received both my bachelor's and master's degrees in prehistoric archaeology from the University of Copenhagen. For my bachelor's thesis, I did an old-school Mesolithic settlement analysis while my master's thesis was on ZooMS analyses of Swedish ovicaprine remains. Apart from this I also spent my years as an undergrad delving into areas such as zooarchaeology, biological anthropology, palaeoanthropology, experimental and funerary archaeology as well as forensic archaeology before I finally found my niche within palaeoproteomics and biomolecular archaeology.
