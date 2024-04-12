@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome, everyone"
+title: "Congratulations, you found me!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -32,7 +32,11 @@ I highly appreciate the opportunity to teach natural science-based methodologies
 
 I received both my bachelor's and master's degrees in prehistoric archaeology from the University of Copenhagen. For my bachelor's thesis, I did an old-school Mesolithic settlement analysis while my master's thesis was on ZooMS analyses of Swedish ovicaprine remains. Apart from this I also spent my years as an undergrad delving into areas such as zooarchaeology, biological anthropology, palaeoanthropology, experimental and funerary archaeology as well as forensic archaeology before I finally found my niche within palaeoproteomics and biomolecular archaeology.
 
-These days I live in the quiet countryside of Northwestern Zealand in a small house with my wife (who is also an archaeologist), our son, Eske, our Finnish Lapphund, Jukka, our four chickens and four goats. 
+These days I live in the quiet countryside of Northwestern Zealand in a small house with my wife (who is also an archaeologist), our son, Eske, our Finnish Lapphund, Jukka, our four chickens and four goats. In what little spare time I have left I enjoy spending time in nature with my family either hiking or kayaking, camping, mountain biking, rock climbing, hunting or fishing.
 
-In what little spare time I have left I enjoy spending time in nature with my family either hiking or kayaking, camping, mountain biking, rock climbing, hunting or fishing.
+--
+
+The horrors persist but so do I, 
+
+~ Jonas Holm Jæger
 
