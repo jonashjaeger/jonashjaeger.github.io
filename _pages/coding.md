@@ -4,9 +4,9 @@ title: "Coding"
 permalink: /coding/
 author_profile: true
 ---
-In the wake of large language models and AI's like ChatGPT-4 I started to slowly develop an interest in coding - particularly because I figured that it would be great use of my time to spend a few hours writing some code if it could save me many hours of work. However, coming from a humanities background as well as being born a decade or two too soon to have coding being part of the elementary school curriculum, writing code has never been part of *my* curriculum. 
+In the age of Large Language Models or Artificial "Intelligences" like ChatGPT4 I have slowly started to develop an interest in writing code - primarily R and Python - particularly because after playing around with GPT4 I figured that I could probably save some time on my project if I had a bunch of 1s and 0s doing some of the work for me. As Bill Gates probably said: "Work smarter - not harder". 
 
-And even if I've wanted to learn how to code for years I never managed to get started. However, with the aid of GPT-4 coding suddenly became accessible even to me and while GPT-4 does most of the hard work I am able to write a basic script in R or Python by now. 
+However, being born in 1990, coding in any way, shape or form was never part of my primary (or secondary) school curriculum. And coming from a hard humanities background it wasn't part of my university education either. So, even If I've tried to learn a bit of coding for years I never managed to get started. But with the aid of GPT4, I was suddenly able to write code that actually *did* something. And here is a few (poor) examples at that - nonetheless it's code that I've actively used for my own research. 
 
 **[mni_analyser.py](https://github.com/jhj-proteomics/mni_analyser)**
 
