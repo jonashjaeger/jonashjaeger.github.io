@@ -10,13 +10,13 @@ However, being born in 1990, coding in any way, shape or form was never part of 
 
 **[mni_analyser.py](https://github.com/jhj-proteomics/mni_analyser)**
 
-For my PhD, I had to sample several zooarchaeological remains for ZooMS analysis. However, my main concern was to avoid sampling the same individual twice. To avoid that I wanted to develop a simple script that could take the information in a zooarchaeological dataset and automatically identify which sample IDs were likely to represent bone elements from a single individual. However, to do so, I had to develop a second script that generated a theoretical zooarchaeological dataset to use in the script. 
+For my PhD, I had to sample several zooarchaeological remains for ZooMS analysis. However, my main concern was to avoid sampling the same individual twice. To avoid that I wanted to develop a simple script that could take the information in a zooarchaeological dataset and automatically identify which sample IDs were likely to represent bone elements from a single individual. However, to do so, I had to develop a second script that generated a theoretical zooarchaeological dataset to use in the script which became assemblage_generator.py.
 
 **[assemblage_generator.py](https://github.com/jhj-proteomics/assemblage_generator)**
 
 To test mni_analyser.py I developed a script that would "simulate" a theoretical Viking Age zooarchaeological assemblage of ovicaprines, cattle and pigs. The script generates between 50 and 500 sample IDs in the relative numbers one would expect to observe on an average Danish Viking Age site (~30 % ovicaprines, ~30 % cattle and ~40 % pig). The ratios were calculated from the average prevalence of ovicaprines, cattle and pigs from 18 Danish sites dated to the Viking Age. 
 
-**[rename4platemapTSV](https://github.com/jhj-proteomics/rename4platemapTSV)**
+**[rename4platemapTSV.py](https://github.com/jhj-proteomics/rename4platemapTSV)**
 
 This script renames .tsv files created using mzxml2tsv.py according to a .csv file of the corresponding MALDI plate map.
 
@@ -24,7 +24,7 @@ The script requires a "clean" plate map in .csv format. And with "clean" I mean 
 
 Samples spotted in triplicate (or more) will be named [samplename_1.tsv] for the first spot, [samplename_2.tsv] for the second spot and [samplename_3.tsv] for the third and so on.
 
-**[rename4platemapTXT](https://github.com/jhj-proteomics/rename4platemapTXT)**
+**[rename4platemapTXT.py](https://github.com/jhj-proteomics/rename4platemapTXT)**
 
 This script renames .txt files created using mzxml2txt.py according to a .csv file of the corresponding MALDI plate map.
 
@@ -32,15 +32,15 @@ The script requires a "clean" plate map in .csv format. And with "clean" I mean 
 
 Samples spotted in triplicate (or more) will be named [samplename_1.txt] for the first spot, [samplename_2.txt] for the second spot and [samplename_3.txt] for the third and so on.
 
-**[mzxml2tsv](https://github.com/jhj-proteomics/mzxml2tsv)**
+**[mzxml2tsv.py](https://github.com/jhj-proteomics/mzxml2tsv)**
 
 This script reads mass spec data in .mzXML format and converts each spectrum to separate .tsv files which can be read using mMass v.5.5.0 or run through Bacollite.
 
-**[mzxml2txt](https://github.com/jhj-proteomics/mzxml2txt)**
+**[mzxml2txt.py](https://github.com/jhj-proteomics/mzxml2txt)**
 
 This script reads mass spec data in .mzXML format and converts each spectrum to separate .txt files which can be read using mMass v.5.5.0 or run through Bacollite.
 
-**[ProteoLinguistics](https://github.com/jhj-proteomics/ProteoLinguistics)**
+**[ProteoLinguistics.py](https://github.com/jhj-proteomics/ProteoLinguistics)**
 
 Have you ever contemplated the potential of individual proteins concealing patterns or messages within their amino acid sequences? While these molecules don't carry deliberate messages, the exploration of such patterns can offer an intriguing lens into molecular biology.
 
