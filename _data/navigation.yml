@@ -16,5 +16,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Coding"
+   - title: "Coding"
     url: /coding/
+    children:
+      - title: "Dårligdommerne"
+        url: /coding/daarligdommerne/
