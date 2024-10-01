@@ -17,4 +17,4 @@ Jæger, JH. & Johansen, VL 2014: The cremation of infants/small children. An arc
 
 **Contributions**
 
-Foss, P. & Winther Johansen, J. 2019: Cup Marks on Stones in Danish Bronze Age Settlements, *Adoranten* 2018: 31-41
+Foss, P. & Winther Johansen, J. 2019: Cup Marks on Stones in Danish Bronze Age Settlements, *Adoranten* 2018: 31-41.
