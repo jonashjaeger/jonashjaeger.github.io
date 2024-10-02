@@ -7,7 +7,7 @@ author_profile: true
 
 **Peer-reviewed publications**
 
-Viñas-Caron, L. C., Nørtoft, M., Flemestad, P., Jæger, J. H. & Margariti, C. 2024: From Fleece to Thread. Interdisciplinary Evidence for the Origins of Sheep Wool, in: Mannering, U., Nosch, M-L. & Drewsen, A. (eds.) 2024: *The Common Thread: Collected Essays in Honour of Eva Andersson Strand*, New Approaches in Archaeology 3, Brepols Online: 33-60. 
+Viñas-Caron, L. C., Nørtoft, M., Flemestad, P., Jæger, J. H. & Margariti, C. 2024: From Fleece to Thread. Interdisciplinary Evidence for the Origins of Sheep Wool, in: Mannering, U., Nosch, M-L. & Drewsen, A. (eds.) 2024: *The Common Thread: Collected Essays in Honour of Eva Andersson Strand*, New Approaches in Archaeology 3, Brepols Online: 33-60.
 
 Jæger, JH. 2023: Wool Production During the Southern Scandinavian Late Iron Age and Viking Age - The Potential of Biomolecular Methods *[in press]*
 
