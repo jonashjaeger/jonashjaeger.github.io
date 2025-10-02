@@ -6,9 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, sheeple, I am Jonas, a lowly (but very grateful) PhD fellow trying to make his way in biomolecular archaeology at the [University of Copenhagen.](https://saxo.ku.dk/forskning/forhistorisk-arkaeologi/)
+Welcome!
 
-My PhD project, ***Shearing Trough Time - Biomolecular Insights Into Viking Age Sheep Husbandry in Denmark*** (title is subject to change depending on my mood and levels of ambition), is one of several cogs making up the [Textile Resources in Viking Age Landscapes](https://ctr.hum.ku.dk/research-programmes-and-projects/trival/)-project (or TRiVAL for short) hosted at the [Centre for Textile Research](https://ctr.hum.ku.dk/), SAXO, UCPH. The entire project is funded by the Independent Research Fund Denmark (grant no. DFF-2027-00204B) - for which I am forever grateful - and I have been fortunate enough to receive a generous grant from the [Elisabeth Munksgaard Foundation](https://natmus.dk/historisk-viden/forskning/elisabeth-munksgaard-fonden/) as well.
+My name is Jonas Holm Jæger. I am an archaeologist and a PhD-fellow trying to make his way in biomolecular archaeology at the University of Copenhagen [University of Copenhagen.](https://saxo.ku.dk/forskning/forhistorisk-arkaeologi/)
+
+I am currently finishing my PhD-project, ***Shearing Through Time - Biomolecular Insights Into Late Iron Age and VIking Age Sheep Husbandry in Denmark***. This project is one of several cogs making up the [Textile Resources in Viking Age Landscapes](https://ctr.hum.ku.dk/research-programmes-and-projects/trival/)-project hosted at the [Centre for Textile Research](https://ctr.hum.ku.dk/), SAXO, UCPH, funded by the Independent Research Fund Denmark (grant no. DFF-2027-00204B).
 
 **My research**
 
