@@ -1,14 +1,13 @@
-# main links links
+# main links
 main:
-
   - title: "Publications"
     url: /publications/
 
   - title: "Outreach"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/ 
+    url: /teaching/
 
   - title: "Media"
     url: /media/
@@ -16,7 +15,7 @@ main:
   - title: "CV"
     url: /cv/
 
-   - title: "Coding"
+  - title: "Coding"
     url: /coding/
     children:
       - title: "Dårligdommerne"
