@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome!
-
 My name is Jonas Holm Jæger. I am an archaeologist and a PhD-fellow in biomolecular archaeology at the University of Copenhagen [University of Copenhagen.](https://saxo.ku.dk/forskning/forhistorisk-arkaeologi/)
 
 I am currently in the process of finishing my PhD-project, ***Shearing Through Time - Biomolecular Insights Into Late Iron Age and VIking Age Sheep Husbandry in Denmark***, which is part of the [Textile Resources in Viking Age Landscapes](https://ctr.hum.ku.dk/research-programmes-and-projects/trival/)-project hosted at the [Centre for Textile Research](https://ctr.hum.ku.dk/), SAXO, UCPH, funded by the Independent Research Fund Denmark (grant no. DFF-2027-00204B).
