@@ -7,9 +7,9 @@ author_profile: true
 
 **Preprints**
 
-**Jæger, J. H.**, Mattiangeli, V., Ulriksen, J., Sarauw, T., & Jessen. (2026). Mitochondrial genomes reveal maternal lineages of Late Iron Age sheep (Ovis aries) in Denmark. *bioRxiv.* https://doi.org/10.64898/2026.04.19.719464
+**Jæger, J. H.**, Mattiangeli, V., Ulriksen, J., Sarauw, T., & Jessen. (2026). Mitochondrial genomes reveal maternal lineages of Late Iron Age sheep (*Ovis aries*) in Denmark. *bioRxiv.* https://doi.org/10.64898/2026.04.19.719464
 
-**Jæger, J. H.**, Tarrant, D. C., Richards, M. P., Ulriksen, J., Sarauw, T., Kastholm, O. T., & Nielsen, J. (2026). Stable isotopes (δ^13 C, δ^15 N, δ^34 S) suggest eelgrass (Zostera sp.) foddering of Late Iron Age sheep (Ovis aries) in Denmark. *bioRxiv.* https://doi.org/10.64898/2026.04.19.719466
+**Jæger, J. H.**, Tarrant, D. C., Richards, M. P., Ulriksen, J., Sarauw, T., Kastholm, O. T., & Nielsen, J. (2026). Stable isotopes (δ13 C, δ15 N, δ34 S) suggest eelgrass (*Zostera sp.*) foddering of Late Iron Age sheep (*Ovis aries*) in Denmark. *bioRxiv.* https://doi.org/10.64898/2026.04.19.719466
 
 **Peer-reviewed publications**
 
