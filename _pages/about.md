@@ -7,26 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jonas Holm Jæger. I am an archaeologist and PhD Fellow in biomolecular archaeology at the University of Copenhagen [University of Copenhagen](https://saxo.ku.dk/forskning/forhistorisk-arkaeologi/).
-
-Currently, I am completing my PhD project, ***Shearing Through Time – Biomolecular Insights into Late Iron Age and Viking Age Sheep Husbandry in Denmark***. The project is part of the [Textile Resources in Viking Age Landscapes](https://ctr.hum.ku.dk/research-programmes-and-projects/trival/) programme hosted at the [Centre for Textile Research](https://ctr.hum.ku.dk/), SAXO Institute, UCPH, funded by the Independent Research Fund Denmark (DFF-2027-00204B).
-
-**Research**
-
-My research concerns sheep husbandry in Denmark during the Late Iron Age (*c.* AD 400–750) and Viking Age (*c.* AD 750–1050), with a focus on how changes in textile production and socio-economic transformations shaped sheep husbandry.
-
-The first millennium AD in Denmark was a period of expanding maritime networks, demographic growth, and increasing demand for wool textiles, including sailcloth. Archaeological evidence suggests shifts in the organisation of textile production, and textile analyses indicate changes in fibre characteristics at the beginning of the Viking Age. 
-
-Against this background, I examine how sheep populations were managed in practice: herd composition, breeding strategies, mobility, foddering, and long-term continuity.
-
-Methodologically, I work with an integrated biomolecular approach combining ancient DNA, palaeoproteomics (ZooMS), and stable isotope analysis. These datasets are interpreted alongside zooarchaeological, textile archaeological, and landscape evidence.
-
-My broader interests lie in animal economies, biomolecular methods in archaeology, and the relationship between biological data and cultural change.
-
-**Background**
-
-I hold BA and MA degrees in prehistoric archaeology from the University of Copenhagen.
-
-My bachelor's thesis focused on lithic analysis and early Mesolithic settlement dynamics at the Maglemosian site of Mullerup in Western Zealand. For my master's thesis, I applied ZooMS to Swedish Late Iron Age and Viking Age ovicaprine assemblages, forming the basis for my doctoral research.
-
-Outside of academia, I live in Northwestern Zealand with my wife, our two sons, and our Finnish Lapphund. In my sparetime I enjoy analog photography and spending time outdoors hunting, fishing, camping, mountain biking, kayaking, and climbing. 
+I am a biomolecular archaeologist with a background in Scandinavian prehistoric archaeology. My research combines archaeology with biomolecular methods to study past human-animal relationships, livestock husbandry and the ways in which people managed and exploited animal resources. 
