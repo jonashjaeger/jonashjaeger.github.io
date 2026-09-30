@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jonas Holm Jæger"
+title                    : "Jonas Holm Jæger, PhD"
 title_separator          : "-"
 name                     : &name "Jonas Holm Jæger"
-description              : &description "PhD-fellow, prehistoric archaeology & palaeoproteomics, University of Copenhagen"
+description              : &description "PhD, biomolecular archaeology, University of Copenhagen"
 url                      : https://jonashjaeger.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jonashjaeger/jonashjaeger.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "jonas_profile.jpg"
   name             : "Hello, there!"
   pronouns         : # example: "she/her"  
-  bio              : "PhD-fellow in biomolecular archaeology"
+  bio              : "PhD, biomolecular archaeology"
   location         : "55.663307, 12.588779"
   employer         : "University of Copenhagen"
   uri              : # URL
